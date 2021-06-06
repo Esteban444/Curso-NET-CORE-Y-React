@@ -1,0 +1,12 @@
+D:\PROGRAMACION\CursoReactNetCore\ProyectoCore\Dominio\bin\Debug\net5.0\Dominio.deps.json
+D:\PROGRAMACION\CursoReactNetCore\ProyectoCore\Dominio\bin\Debug\net5.0\Dominio.dll
+D:\PROGRAMACION\CursoReactNetCore\ProyectoCore\Dominio\bin\Debug\net5.0\ref\Dominio.dll
+D:\PROGRAMACION\CursoReactNetCore\ProyectoCore\Dominio\bin\Debug\net5.0\Dominio.pdb
+D:\PROGRAMACION\CursoReactNetCore\ProyectoCore\Dominio\obj\Debug\net5.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROGRAMACION\CursoReactNetCore\ProyectoCore\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfoInputs.cache
+D:\PROGRAMACION\CursoReactNetCore\ProyectoCore\Dominio\obj\Debug\net5.0\Dominio.AssemblyInfo.cs
+D:\PROGRAMACION\CursoReactNetCore\ProyectoCore\Dominio\obj\Debug\net5.0\Dominio.csproj.CoreCompileInputs.cache
+D:\PROGRAMACION\CursoReactNetCore\ProyectoCore\Dominio\obj\Debug\net5.0\Dominio.dll
+D:\PROGRAMACION\CursoReactNetCore\ProyectoCore\Dominio\obj\Debug\net5.0\ref\Dominio.dll
+D:\PROGRAMACION\CursoReactNetCore\ProyectoCore\Dominio\obj\Debug\net5.0\Dominio.pdb
+D:\PROGRAMACION\CursoReactNetCore\ProyectoCore\Dominio\obj\Debug\net5.0\Dominio.csprojAssemblyReference.cache
